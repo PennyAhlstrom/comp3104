@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PennyAhlstrom/comp3104/static/css/main.27ca76a1.css",
+    "main.js": "/PennyAhlstrom/comp3104/static/js/main.199fef4f.js",
+    "static/js/453.7e6a9c43.chunk.js": "/PennyAhlstrom/comp3104/static/js/453.7e6a9c43.chunk.js",
+    "index.html": "/PennyAhlstrom/comp3104/index.html",
+    "main.27ca76a1.css.map": "/PennyAhlstrom/comp3104/static/css/main.27ca76a1.css.map",
+    "main.199fef4f.js.map": "/PennyAhlstrom/comp3104/static/js/main.199fef4f.js.map",
+    "453.7e6a9c43.chunk.js.map": "/PennyAhlstrom/comp3104/static/js/453.7e6a9c43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.199fef4f.js"
+  ]
+}
